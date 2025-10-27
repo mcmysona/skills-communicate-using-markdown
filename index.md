@@ -10,3 +10,16 @@ I added a few different headers
 # Insert Image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+# Code Example
+
+``` C++
+#include<iostream>
+#include<string>
+using namespace std;
+
+int main(){
+  cout << "Hello World !" << endl;
+  return 0;
+}
+```
